@@ -6,3 +6,11 @@ To do so, the following steps are done:
 * **Data visualization:** The real performance of stocks is visually compared to the gain/loss indicated by the brokerage account. The importance of accounting for dividends gain is reflected.
 
 All of the steps were done with Python and its libraries.
+
+Documents included:
+
+* Project notebook in .ipynb
+* Notebook in PDF format
+* Notebook in html format
+* Positions and transactions datasets in .csv
+* Explanation image in .png
